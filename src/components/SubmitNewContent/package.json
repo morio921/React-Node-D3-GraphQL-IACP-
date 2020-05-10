@@ -1,0 +1,6 @@
+{
+  "name": "SubmitNewContent",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SubmitNewContent.js"
+}
